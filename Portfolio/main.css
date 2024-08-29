@@ -239,6 +239,7 @@ padding: 10px;
 
     .all-expertise-card{
         grid-template-columns: auto;
+        width: 100%;
     }
 
 
